@@ -9,6 +9,5 @@
   ],
   "copySourcePRLabels": false,
   "copySourcePRReviewers": true,
-  "prTitle": "{{sourcePullRequest.title}}",
   "commitConflicts": true
 }

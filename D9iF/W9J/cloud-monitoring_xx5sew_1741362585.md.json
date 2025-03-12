@@ -1,7 +1,6 @@
 {
   "repoOwner": "prowler-cloud",
   "repoName": "prowler",
-  "targetPRLabels": [
     "backport"
   ],
   "sourcePRLabels": [

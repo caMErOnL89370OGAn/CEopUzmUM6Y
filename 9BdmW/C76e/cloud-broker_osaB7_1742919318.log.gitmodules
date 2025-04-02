@@ -2,7 +2,6 @@
 	path = dependencies/sodium
 	url = https://github.com/ingescape/libsodium.git
 	branch = stable
-[submodule "dependencies/libzmq"]
 	path = dependencies/libzmq
 	url = https://github.com/ingescape/libzmq.git
 	branch = master

@@ -7,7 +7,6 @@
     "univSvgHeight": true,
     "contentData": false,
     "d3": false,
-    "MathJax": false,
     "jQuery": false,
     "$": false
   }

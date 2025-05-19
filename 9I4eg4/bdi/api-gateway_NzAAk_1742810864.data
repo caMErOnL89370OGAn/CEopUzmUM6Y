@@ -5,7 +5,6 @@ COPY ./VERSION .
 COPY ./web .
 
 RUN npm install --prefix /web/default & \
-    npm install --prefix /web/berry & \
     npm install --prefix /web/air & \
     wait
 

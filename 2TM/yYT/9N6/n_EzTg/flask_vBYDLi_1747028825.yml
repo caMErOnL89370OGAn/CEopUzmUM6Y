@@ -19,4 +19,3 @@ before_script:
 script:
   coveralls
 notifications:
-  slack: zappateam:TTJ0mfHunDK0IBweKkEXjGpR

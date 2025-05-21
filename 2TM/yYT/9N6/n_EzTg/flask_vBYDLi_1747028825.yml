@@ -15,7 +15,6 @@ install:
   - TESTCASE=tests/tests_placebo.py
   - TESTCASE=tests/tests_async.py
 before_script:
-  # stop the build if there are Python syntax errors or undefined names
 script:
   coveralls
 notifications:

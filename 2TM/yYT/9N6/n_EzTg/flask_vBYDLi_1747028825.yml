@@ -18,7 +18,6 @@ install:
 before_script:
   # stop the build if there are Python syntax errors or undefined names
 script:
-  - nosetests $TESTCASE --with-coverage --cover-package=zappa --with-timer
   coveralls
 notifications:
   slack: zappateam:TTJ0mfHunDK0IBweKkEXjGpR

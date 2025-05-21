@@ -3,7 +3,6 @@
     "univSvgWidth": true,
     "univSvgHeight": true,
     "contentData": false,
-    "jQuery": false,
     "$": false
   }
 }

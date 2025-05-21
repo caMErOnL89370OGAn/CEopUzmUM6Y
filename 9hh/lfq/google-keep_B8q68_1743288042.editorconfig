@@ -12,7 +12,6 @@ indent_style = space
 
 [*.{ex,exs}]
 indent_style = space
-indent_size = 2
 max_line = 80
 
 [{Makefile,**.mk}]

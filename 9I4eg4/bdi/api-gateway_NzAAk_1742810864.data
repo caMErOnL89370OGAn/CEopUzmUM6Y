@@ -17,7 +17,6 @@ RUN apk add --no-cache \
     gcc \
     musl-dev \
     sqlite-dev \
-    build-base
 
 ENV GO111MODULE=on \
     CGO_ENABLED=1 \

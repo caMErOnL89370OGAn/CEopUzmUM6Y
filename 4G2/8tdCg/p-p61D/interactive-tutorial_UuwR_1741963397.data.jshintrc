@@ -4,7 +4,6 @@
     "univSvgWidth": true,
     "univSvgHeight": true,
     "contentData": false,
-    "d3": false,
     "jQuery": false,
     "$": false
   }

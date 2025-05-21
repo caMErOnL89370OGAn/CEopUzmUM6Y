@@ -20,7 +20,6 @@ before_script:
   - flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 script:
   - nosetests $TESTCASE --with-coverage --cover-package=zappa --with-timer
-after_success:
   coveralls
 notifications:
   slack: zappateam:TTJ0mfHunDK0IBweKkEXjGpR

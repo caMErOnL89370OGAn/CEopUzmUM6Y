@@ -3,5 +3,3 @@ root = true
 [*]
 charset = utf-8
 indent_style = space
-
-[{Makefile,**.mk}]

@@ -7,7 +7,6 @@ trim_trailing_whitespace = true
 indent_style = space
 
 [*.{ex,exs}]
-indent_style = space
 max_line = 80
 
 [{Makefile,**.mk}]
